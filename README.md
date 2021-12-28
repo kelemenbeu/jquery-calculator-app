@@ -1,5 +1,9 @@
 # jquery-calculator-app
 
+### `npm install`
+
+Install the dependencies
+
 ### `npm run build`
 
 Builds the app for production to the `dist` folder.\
